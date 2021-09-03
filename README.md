@@ -1,2 +1,2 @@
 # findWebsiteIp
-basic program for check website ip / programme basique pour voir l'adresse ip d'un site web
+basic program for get website ip / programme basique pour trouver l'adresse ip d'un site web
